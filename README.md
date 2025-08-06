@@ -4,7 +4,7 @@ Modern enterprises face the challenge of unifying data access across fragmented 
 
 ## Project Overview
 
-This repository contains Jupyter notebooks that demonstrate Teradata’s OTF capabilities on VantageCloud Lake (Google Cloud), including:
+This repository contains Jupyter notebooks that demonstrate Teradata’s OTF capabilities on VantageCloud Lake including:
 - Cross-catalog and cross-format querying
 - Metadata exploration
 - Schema evolution without rewriting existing data
